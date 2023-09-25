@@ -7,4 +7,5 @@ URL: https://itauchile.udemy.com/course/master-en-css-responsive-sass-flexbox-gr
 3. ¿Qués es HTML y para que sirve?
 
 HTML: Simplemente es un lenguaje de marcado o de etiquetado que nos permite crear la estructura básica, el esqueleto básico de una página web. De acuerdo, si nos vamos a Wikipedia podemos ver que HTML significa Hypertexts Markup Language y es un lenguaje de marcas, de hipertextos y básicamente nos permite hacer la estructura básica de una página web.
- CSS: Luego para darle estilo y para darle un diseño a nuestra web ya utilizaríamos otro lenguaje que tampoco es un lenguaje de programación como tal, pero sí que es un lenguaje de maquetación que es el lenguaje CSS, que significa hojas de estilos en cascada. Entonces con HTML hacemos la estructura básica de nuestra página web y con CSS le damos estilo.
+
+CSS: Luego para darle estilo y para darle un diseño a nuestra web ya utilizaríamos otro lenguaje que tampoco es un lenguaje de programación como tal, pero sí que es un lenguaje de maquetación que es el lenguaje CSS, que significa hojas de estilos en cascada. Entonces con HTML hacemos la estructura básica de nuestra página web y con CSS le damos estilo.
