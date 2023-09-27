@@ -58,14 +58,13 @@
 
     ChatGpt: "En HTML, existen 6 niveles diferentes de etiquetas de encabezado, que van desde `<h1>` hasta `<h6>`. Cada uno de estos niveles representa un nivel diferente de encabezado, donde `<h1>` es el encabezado de nivel más alto o más importante, y `<h6>` es el de nivel más bajo o menos importante. Aquí tienes un ejemplo de cómo se podrían usar en el código HTML:
 
-<ul>
-    <li>`<h1>Encabezado nivel 1</h1>`</li>
-    <li>`<h2>Encabezado nivel 2</h2>`</li>
-    <li>`<h3>Encabezado nivel 3</h3>`</li>
-    <li>`<h4>Encabezado nivel 4</h4>`</li>
-    <li>`<h5>Encabezado nivel 5</h5>`</li>
-    <li>`<h6>Encabezado nivel 6</h6>`</li>
-</ul>
+    `<h1>Encabezado nivel 1</h1>`
+    `<h2>Encabezado nivel 2</h2>`
+    `<h3>Encabezado nivel 3</h3>`
+    `<h4>Encabezado nivel 4</h4>`
+    `<h5>Encabezado nivel 5</h5>`
+    `<h6>Encabezado nivel 6</h6>`
+
 
     Cada etiqueta `<h>` define un encabezado, y se puede usar cualquier número de veces en un documento HTML. Los navegadores web generalmente muestran los encabezados con diferentes tamaños de fuente, dependiendo del nivel del encabezado, pero esto también se puede personalizar con CSS. Además, los encabezados juegan un papel importante en la estructuración semántica del contenido de la página y en la accesibilidad".
 
