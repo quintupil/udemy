@@ -71,6 +71,31 @@ Las etiquetas h2, h3, etc., también son importantes para la estructuración del
 
 Además de las etiquetas de encabezado, hay otros elementos y atributos HTML que son importantes para SEO, como la etiqueta `<title>`, las metaetiquetas (por ejemplo, `<meta name="description" content="..."/>`), los atributos alt en las imágenes, y las etiquetas de enlace (anchor tags) `<a>` con el atributo href, entre otros. Utilizar estos elementos correctamente puede ayudar a mejorar la visibilidad de una página web en los resultados de búsqueda".
 
+<h3>6. Etiquetas de texto en HTML</h3>
+
+URL: 
+https://itauchile.udemy.com/course/master-en-css-responsive-sass-flexbox-grid-y-boostrap-4/learn/lecture/16524260?kw=Master+en+CSS&src=sac#overview
+
+Ya vimos en la lección anterior las etiquetas de texto h1, h2, h3 ... h6, ahora tenemos otra etiqueta para definir texto dentro de un parrafo es la etiqueta `<p></p>`.
+
+Buscar en google lorem ipsum que son textos de pruebas.
+
+La etiqueta `<br/>` no tiene ningún contenido pero sí que va a hacer una función clara, que es la etiqueta del salto de línea.
+
+La etiqueta `<hr/>` al igual que la etiqueta `<br/>` me aparece en pantalla un salto de linea, pero además agrega una línea recta en la página.
+
+La etiqueta `<strong></strong>`, permite poner un texto en negrita.
+
+La etiqueta `<em></em>`, permite colocar un texto en cursiva. 
+
+La etiqueta `<spam></spam>`, es una etiqueta que no hace nada, no hace ninguna acción sobre el texto, pero sin embargo yo le puedo poner un identificador resaltado y yo le puedo poner clases para luego con CSS cambiarle los estilos.
+
+La etiqueta `<i></i>`, también nos permite poner la letra en cursiva al igual que `<em>`
+
+La etiqueta `<blockquote></blockquote>`, nos permite que su contenido sea como una especie de cita, es decir, me aparece con una tabulación especial y con un espaciado especial. Así que  `<blockquote>` se utiliza para simplemente remarcar una cita dentro del texto.
+
+
+
 
 
 
