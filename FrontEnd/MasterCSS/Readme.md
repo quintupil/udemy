@@ -94,7 +94,35 @@ La etiqueta `<i></i>`, también nos permite poner la letra en cursiva al igual q
 
 La etiqueta `<blockquote></blockquote>`, nos permite que su contenido sea como una especie de cita, es decir, me aparece con una tabulación especial y con un espaciado especial. Así que  `<blockquote>` se utiliza para simplemente remarcar una cita dentro del texto.
 
+<h3>7. Listas y listados en tu página web HTML</h3>
 
+El objetivo principal de una lista es tener una serie de información conjunta o una serie de datos que tienen cierta relación y que nos interesa mostrarlo de una manera conjunta en formato de listado.
+
+Hay dos tipos de listas, las ordenadas y las desordenadas: 
+Una lista ordenada sería con la etiqueta `<ol>` y cierro la etiqueta  `</ol>`.
+
+Para crear cada uno de los elementos de la lista yo tengo que utilizar la etiqueta `<li>` y cierro la etiqueta `</li>`.
+
+Una lista desordenada sería con la etiqueta `<ul>` y cierro la etiqueta  `</ul>`.
+
+Chatgpt:
+    La etiqueta `<ol>` en HTML se utiliza para definir una lista ordenada. El término "ordenada" en este contexto significa que los elementos de la lista se numeran. Los elementos individuales de la lista se definen utilizando la etiqueta `<li>`. Aquí tienes un ejemplo de cómo se podría utilizar la etiqueta `<ol>` en el código HTML:
+
+    ```html
+    <ol>
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento 3</li>
+    </ol>
+    ```
+
+    Este código creará una lista numerada que se verá así:
+
+    1. Elemento 1
+    2. Elemento 2
+    3. Elemento 3
+
+    Puedes comparar esto con una lista desordenada, que se crea con la etiqueta `<ul>`, donde los elementos de la lista se marcan con viñetas en lugar de números.
 
 
 
