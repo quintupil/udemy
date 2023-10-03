@@ -124,6 +124,26 @@ Chatgpt:
 
     Puedes comparar esto con una lista desordenada, que se crea con la etiqueta `<ul>`, donde los elementos de la lista se marcan con viñetas en lugar de números.
 
+<h3>8. Poner imágenes en una web</h3>
+
+La etiqueta `<img/>` nos permite poner una imagen en la página web, y como no tiene contenido de texto se cierra en la misma etiqueta. 
+
+Está etiqueta tiene varios atributos importantes `alt` para que muestre un texto para cuando la imagen no cargue, a nivel de SEO para describir el contenido de la imagen y a nivel de usabilidad si no carga una imagen carga un texto. 
+
+Atributo `title` para cuando pasemos por encima de la imagen aparezca el titulo de la imagen. 
+
+Atributo `src` es para poner la ruta relativa de la imagen `img/perrito.png`, o también poner la ruta absoluta `D:\Udemy\Repositorio\udemy\FrontEnd\MasterCSS\web\img\perrito.png`, el problema que ocurre al poner ruta absoluta, que si movemos nuestra página a otro servidor la imagen ya no cargará, por eso es mejor trabajar con ruta relativa al proyecto.
+
+Atributo `width` para indicar el ancho de la imagen y atributo `height` para indicar la altura de la imagen, lo más correcto es tocar uno de los dos atributos para que la imagen no se desforme.
+
+
+
+
+
+
+
+
+
 
 
 
