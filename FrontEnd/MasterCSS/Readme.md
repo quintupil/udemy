@@ -136,6 +136,19 @@ Atributo `src` es para poner la ruta relativa de la imagen `img/perrito.png`, o 
 
 Atributo `width` para indicar el ancho de la imagen y atributo `height` para indicar la altura de la imagen, lo más correcto es tocar uno de los dos atributos para que la imagen no se desforme.
 
+<h3>9. Tablas HTML </h3>
+
+La etiqueta `<table></table>` nos va a servir para dibujar en la pantalla una tabla tipica de contenido, en la cual vamos a tener filas y columnas con diferentes valores y elementos. Antiguamente se usaban las tablas para maquetar o estructurar una página web, pero eso está mal hecho, hoy en día se debe hacer con css y con el modelo de cajas, flotando cajas moviendo elementos, conforme el diseño lo necesite. En la actualidad se usan las tablas para administrar contenido en filas y columnas, se usa para organizar información. 
+
+Las tablas se hacen con varias etiquetas, la etiqueta principal es `<table></table>`, para representar fila se utiliza la etiqueta `<tr></tr>`, y para la columna se utiliza `<td></td>` 
+
+La etiqueta `<th></th>` nos permite poner en negrita el encabezado de la tabla, se suele poner th en la primera fila y por cada columna de la tabla poner th, para que resalte lo que va a contener como información cada columna. 
+
+El atributo `colspan` se aplica a los `<td>` y sirve para expandir la columna, tantas columnas como se requiera, de la tabla. Ejemplo: `<td colspan="2">` se va a expandir a dos columnas. Si expandes mas columnas de las que contiene la tabla, solo se va a ver hasta la cantidad de columnas que tiene la tabla nada más, no se vera la expanción, es decir, si tengo tres columnas y a la columna dos expando a 7, solo se verá la expanción de 2 de las 7 columnas las 5 restantes no se veran en pantalla.
+
+
+
+
 
 
 
