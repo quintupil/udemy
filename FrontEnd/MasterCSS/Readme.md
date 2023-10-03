@@ -171,6 +171,28 @@ Otro tipo de elemento que puede contener en un formulario es la etiqueta `<selec
 
 Botón para enviar formulario `<input type="submit" value="Enviar Formulario">` este tipo de etiqueta nos permite enviar el formulario hacia el servidor para enviar la información a procesar.
 
+Ejemplo: 
+
+        <form>
+            <p>
+                <label for="nombre">Nombre</label>
+                <input type="text" name="nombre" placeholder="Escribe tú Nombre"/>
+            </p>
+            <p>
+                <label for="descripcion">Descripción</label>
+                <textarea name="descripcion"></textarea>
+            </p>
+            <input type="radio" name="genero" value="hombre"/>Hombre <br/>              
+            <input type="radio" name="genero" value="mujer"/>Mujer <br/>              
+            <input type="radio" name="genero" value="otro"/>Otro <br/>              
+
+            <select name="generodos">
+                <option value="hombre">Hombre</option>
+                <option value="mujer">Mujer</option>
+                <option value="otro">Otro</option>
+            </select>
+            <input type="submit" value="Enviar formulario"/>
+        </form>    
 
 
 
