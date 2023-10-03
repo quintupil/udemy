@@ -146,6 +146,34 @@ La etiqueta `<th></th>` nos permite poner en negrita el encabezado de la tabla, 
 
 El atributo `colspan` se aplica a los `<td>` y sirve para expandir la columna, a tantas columnas como se requiera de la tabla. Ejemplo: `<td colspan="2">` se va a expandir a dos columnas. Si expandes mas columnas de las que contiene la tabla, solo se va a ver hasta la cantidad de columnas que tiene la tabla nada más, es decir, si tengo tres columnas y a la columna dos expando a 7, solo se verá la expanción de 2 de las 7 columnas, las 5 restantes expanción no se verán en pantalla.
 
+<h3>10. Crear Formularios en HTML</h3>
+
+Los formularios en html sirven para enviar texto, información, o cualquier cosa al servidor, el formulario sirve para que un usuario introduza información la envie al servidor y que se ejecute alguna acción. Para crear un formulario se debe hacer con la etiqueta `<form></form>`.
+
+Se puede agregar el atributo `action` para indicar a donde debe ir el formulario, esto es util cuando se trabaja con backend, para enviar el formulario a un flujo que guarde la infoprmación en base de datos etc. 
+
+También se puede agregar el atributo `method` para indicar que método HTTP vamos a utilizar, si vamos a utilizar post, get u otro etc. 
+
+Etiqueta de tipo texto `<input type="text"/>` se cierra inmediato porque no tiene ningún contenido. Atributo `name` para darle un nombre que identifica a la etiqueta `input`. Atributo `placeholder` nos permite mostrar un texto o infoprmación en el `input`, y al escribir sobre el `input` este texto desaparece.
+
+Etiqueta `<label></label>` que nos ayuda para indicar que tipo de información se requiere ingresar en una etiqueta tipo texto como el descrito anteriormenmte, atributo `for` sirve para indicar a que etiqueta corresponde el label. Ejemplo:
+
+    <form>
+        <label for="nombre">Nombre</label>
+        <input type="text" name="nombre"/>
+    </form>
+
+Etiqueta `<textarea></textarea>` al igual que `input` nos permite ingresar texto, la diferencia que con `textarea` puedo ingresar mas texto y expandir la caja de texto, para ver de mejor manera lo que se ha escrito, también tiene el atributo `name` para indentificar la etiqueta, es importante que el contenido del atribuito `name` no tenga caracteres especiales como acento.
+
+Etiqueta radio buttons `<input type="radio"/>`, este tipo de etiqueta nos permite elegir una opción de x opciones que hay disponibles. Deben tener un valor con el atributo `value` 
+
+Otro tipo de elemento que puede contener en un formulario es la etiqueta `<select></select>` sirve para seleccionar una opción de varias opciones que se desplegan, dichas opciones se etiquetan con `<option></option>` que serán las distintas opciones, donde el usuario puede seleccionar una de las opciones que se desplegan y se muestran hacia abajo. La etiqueta `option` también tiene el atributo `value` 
+
+Botón para enviar formulario `<input type="submit" value="Enviar Formulario">` este tipo de etiqueta nos permite enviar el formulario hacia el servidor para enviar la información a procesar.
+
+
+
+
 
 
 
