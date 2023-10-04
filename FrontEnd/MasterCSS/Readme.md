@@ -208,6 +208,10 @@ Comentario de código en html se etiqueta de la siguiente forma:
 
 Estos comentarios nos sirve para documentar código en html, o para indicar algo importante que deseamos describir, estos comentarios no se verán en la página solo en el código fuente.
 
+<h3>13. Enlaces con HTML</h3>
+
+Etiqueta `<a href="pagina.html" title="Titulo del enlace">Texto</a>`, permite crear un enlace hacia otrá página de nuestro sitio web. Con atributo `target="_blank"` abre la página en una nueva pestaña del navegador.
+
 
 
 
