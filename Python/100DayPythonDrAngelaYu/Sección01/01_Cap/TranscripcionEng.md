@@ -1,3 +1,5 @@
+<h1>1. What you're going to get from this course</h1>
+
 Transcripción:
 
     Hello, and welcome to the world's best Python boot camp.
