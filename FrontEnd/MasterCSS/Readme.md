@@ -214,7 +214,7 @@ Etiqueta `<a href="pagina.html" title="Titulo del enlace">Texto</a>`, permite cr
 
 <h2>Sección 4: [Introducción: CSS y las hojas de estilo en cascada]</h2>
 
-<h3>14. CSS - ¿Qué aprenderemos</h3>
+<h3>14. CSS - ¿Qué aprenderemos?</h3>
 
 <ol>
     <li>Primeros pasos</li>
