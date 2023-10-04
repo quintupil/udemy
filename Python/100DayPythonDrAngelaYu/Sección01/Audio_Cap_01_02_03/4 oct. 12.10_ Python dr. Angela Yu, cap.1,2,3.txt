@@ -1,3 +1,4 @@
+Capitulo 1
 Hello, and welcome to the world's best Python boot camp.
 My name is Angela.
 I'm a senior developer and the lead instructor at the AppBerry, London's highest rated programming
@@ -50,6 +51,8 @@ Check out what my past students had to say about my courses.
 So what are you still waiting for?
 Find out why over half a million students have rated my course five stars
 and see what you can do by mastering Python.
+
+Capitulo 2
 Hi.
 This is where you start the course.
 But first, I want to tell you a little bit about it
@@ -107,6 +110,8 @@ and search the hashtag on Twitter to see what others are doing
 as a part of their 100 days.
 And that's all there is to it.
 So here's to your success and let's get started with the course.
+
+Capitulo 3
 Hey guys, it's Angela here.
 After I made this course, I decided to take it myself
 so I could see what it's like to be in your shoes.
