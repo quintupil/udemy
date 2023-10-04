@@ -5,6 +5,8 @@ Autora: Dr. Angela Yu
 
 <h3>1. What you're going to get from this course</h3>
 
-<a href="01_Cap\TranscripcionEng.md" title="Transcripción Inglés">Transcription Inglés</a>
+<a href="01_Cap\TranscripcionEng.md" title="Transcripción Inglés">Transcrición Inglés</a>
+
+<a href="01_Cap\TranscripcionEs.md" title="Transcripción Español">Transcrición Español</a>
 
 
