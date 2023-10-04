@@ -11,7 +11,7 @@ Autora: Dr. Angela Yu
 
 <h3>2. START HERE</h3>
 
-Resourse: 
+Recurso: 
 <a href="02_Cap/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf" target="_blank">Course Pledge App Brewery 100 Days of Python.pdf</a>
 
 <a href="02_Cap\TranscripcionIng.md" title="Transcripción Inglés">Transcripción Inglés</a>
@@ -19,6 +19,11 @@ Resourse:
 <a href="02_Cap\TranscripcionEs.md" title="Transcripción Español">Transcripción Español</a>
 
 <h3>3. Downloadabled Resources and Tips for Taking the Course</h3>
+
+Recursos:
+
+<a href="https://discord.com/invite/3DDPkCAU3N" title="">Comunity Discord</a>
+
 
 <a href="03_Cap\TranscripcionIng.md" title="Transcripción Inglés">Transcripción Inglés</a>
 

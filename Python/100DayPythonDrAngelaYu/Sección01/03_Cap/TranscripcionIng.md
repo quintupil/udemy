@@ -1,6 +1,8 @@
 <h1>3. Downloadabled Resources and Tips for Taking the Course</h1>
 <a href="..\Readme.md" title="Volver a Readme.md">Volver</a>
 
+Transcripción: 
+
     Hey guys, it's Angela here.
     After I made this course, I decided to take it myself
     so I could see what it's like to be in your shoes.
