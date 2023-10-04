@@ -7,10 +7,15 @@
 
 <h3>1. What you're going to get from this course</h3>
 
+<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview">Enlace</a></br>
+
+Transcripción:
 <a href="01_Cap\TranscripcionIng.md" title="Transcripción Inglés">Transcripción Inglés</a></br>
 <a href="01_Cap\TranscripcionEs.md" title="Transcripción Español">Transcripción Español</a></br>
 
 <h3>2. START HERE</h3>
+
+<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23103754#overview">Enlace</a></br>
 
 Recurso:</br>
 <a href="02_Cap/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf">Course Pledge App Brewery 100 Days of Python.pdf</a></br>
@@ -20,6 +25,8 @@ Transcripción:</br>
 <a href="02_Cap\TranscripcionEs.md" title="Transcripción Español">Transcripción Español</a></br>
 
 <h3>3. Downloadabled Resources and Tips for Taking the Course</h3>
+
+<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23544648#overview">Enlace</a></br>
 
 Recursos:</br>
 <a href="https://discord.com/invite/3DDPkCAU3N" title="">Comunity Discord</a></br>
