@@ -7,10 +7,7 @@
 
 <h3>1. What you're going to get from this course</h3>
 
-<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview" target="_blank">Enlace</a></br>
-
 [Enlace](https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview)
-
 
 Transcripción:
 `<a href="01_Cap\TranscripcionIng.md" title="Transcripción Inglés">`Transcripción Inglés `</a></br>`
