@@ -7,7 +7,7 @@
 
 <h3>1. What you're going to get from this course</h3>
 
-<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview">Enlace</a></br>
+<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview" target="_blank">Enlace</a></br>
 
 Transcripción:
 <a href="01_Cap\TranscripcionIng.md" title="Transcripción Inglés">Transcripción Inglés</a></br>
@@ -15,7 +15,7 @@ Transcripción:
 
 <h3>2. START HERE</h3>
 
-<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23103754#overview">Enlace</a></br>
+<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23103754#overview" target="_blank">Enlace</a></br>
 
 Recurso:</br>
 <a href="02_Cap/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf">Course Pledge App Brewery 100 Days of Python.pdf</a></br>
@@ -26,11 +26,11 @@ Transcripción:</br>
 
 <h3>3. Downloadabled Resources and Tips for Taking the Course</h3>
 
-<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23544648#overview">Enlace</a></br>
+<a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23544648#overview" target="_blank">Enlace</a></br>
 
 Recursos:</br>
 <a href="https://discord.com/invite/3DDPkCAU3N" title="">Comunity Discord</a></br>
-<a href="03_Cap\12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" title="">12 Rules to Learn to Code eBook-Copyright App Brewery pdf</a></br>
+<a href="03_Cap\12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" target="_blank">12 Rules to Learn to Code eBook-Copyright App Brewery pdf</a></br>
 <a href="03_Cap\100+Days+of+Python+Check+Off+Posters.pdf" title="">100 Days of Python Check Off Posters pdf</a></br>
 <a href="03_Cap\Coding+Notebook+Sheets+to+Print.pdf" title="">Coding Notebook Sheets to Print pdf</a></br>
 <a href="03_Cap\Python+Syntax+Cheat+Sheet+Booklet+v2.pdf" title="">Python Syntax Cheat Sheet Booklet v2 pdf</a></br>
