@@ -1,0 +1,672 @@
+1
+00:00:00,000 --> 00:00:07,920
+Hello, and welcome to the world's best Python boot camp.
+
+2
+00:00:07,920 --> 00:00:09,600
+My name is Angela.
+
+3
+00:00:09,600 --> 00:00:15,680
+I'm a senior developer and the lead instructor at the AppBerry, London's highest rated programming
+
+4
+00:00:15,680 --> 00:00:16,680
+boot camp.
+
+5
+00:00:16,680 --> 00:00:23,600
+To date, I've taught over half a million students in person and online, and I'm so excited to
+
+6
+00:00:23,600 --> 00:00:25,840
+be your instructor on this course.
+
+7
+00:00:26,080 --> 00:00:32,640
+As a student on this course, you're going to get access to over 56 hours of HD video content,
+
+8
+00:00:32,640 --> 00:00:38,480
+which contains step-by-step tutorials, interactive coding exercises, quizzes, and more.
+
+9
+00:00:39,120 --> 00:00:42,480
+The course is structured around the 100 days of code challenge.
+
+10
+00:00:43,120 --> 00:00:49,920
+So you can look forward to 100 days of lovingly crafted content that is going to cover every
+
+11
+00:00:49,920 --> 00:00:54,320
+aspect of Python programming, from web development to data science.
+
+12
+00:00:54,880 --> 00:00:59,600
+It's the only course you need to become a professional Python developer.
+
+13
+00:01:00,160 --> 00:01:04,560
+Every day on the course, you're going to use what you've learned to build a new project.
+
+14
+00:01:05,360 --> 00:01:09,200
+You'll build a bot that texts you in the morning if it will rain that day,
+
+15
+00:01:09,200 --> 00:01:11,600
+so you never forget your umbrella again.
+
+16
+00:01:11,600 --> 00:01:17,680
+You'll build classic arcade games like Snake and Pong to impress your friends by challenging
+
+17
+00:01:17,680 --> 00:01:19,440
+them to a game that you built.
+
+18
+00:01:20,320 --> 00:01:24,960
+You'll learn to make sense of complex data and create beautiful visualizations
+
+19
+00:01:24,960 --> 00:01:26,720
+to impress your colleagues at work.
+
+20
+00:01:27,760 --> 00:01:32,960
+You'll create a program that automatically sends happy birthday emails to your friends and family.
+
+21
+00:01:33,520 --> 00:01:35,600
+Never forget mom's birthday again.
+
+22
+00:01:35,600 --> 00:01:39,040
+You'll work on projects that clone real-world startups.
+
+23
+00:01:39,040 --> 00:01:40,800
+Cheap flight club, check.
+
+24
+00:01:40,800 --> 00:01:42,560
+Build your own blog, check.
+
+25
+00:01:42,560 --> 00:01:43,760
+Twitter bot, check.
+
+26
+00:01:44,400 --> 00:01:48,160
+And there are so many more projects waiting to be discovered by you.
+
+27
+00:01:48,800 --> 00:01:50,720
+100 projects in total.
+
+28
+00:01:51,600 --> 00:01:55,200
+So if you're somebody who wants to get a job as a Python developer,
+
+29
+00:01:55,200 --> 00:02:00,000
+then this is perfect for building up your portfolio to show off at your next interview.
+
+30
+00:02:00,800 --> 00:02:05,680
+Now this course assumes absolutely no prior programming experience.
+
+31
+00:02:06,400 --> 00:02:09,280
+So if you're somebody who's never coded before,
+
+32
+00:02:09,280 --> 00:02:14,800
+I'll be with you every step of the way as I take you from programming fundamentals
+
+33
+00:02:14,800 --> 00:02:18,240
+through to more intermediate and advanced programming concepts.
+
+34
+00:02:18,880 --> 00:02:21,520
+You're going to learn Python from scratch.
+
+35
+00:02:21,520 --> 00:02:24,160
+Now if you're an advanced developer on the other hand,
+
+36
+00:02:24,160 --> 00:02:28,400
+then take a look at the curriculum and start at the level that suits you best.
+
+37
+00:02:28,960 --> 00:02:33,120
+From beginner to professional, every level is covered in the course.
+
+38
+00:02:33,680 --> 00:02:34,640
+Got school?
+
+39
+00:02:34,640 --> 00:02:36,320
+Working a full-time job?
+
+40
+00:02:36,320 --> 00:02:37,920
+Have to look after kids?
+
+41
+00:02:37,920 --> 00:02:39,360
+I know you're busy.
+
+42
+00:02:39,360 --> 00:02:44,000
+I've timed each day of the course to take less than two hours to complete
+
+43
+00:02:44,000 --> 00:02:46,720
+so you can fit the course around your life.
+
+44
+00:02:46,720 --> 00:02:52,480
+This course has exactly the same curriculum as our in-person programming bootcamp.
+
+45
+00:02:52,480 --> 00:02:56,240
+So instead of spending thousands of dollars and taking time off work,
+
+46
+00:02:56,240 --> 00:03:01,920
+you'll get access to exactly the same curriculum with years of design and testing behind it
+
+47
+00:03:01,920 --> 00:03:06,480
+to ensure that you don't just know what to do but also why you're doing it.
+
+48
+00:03:06,480 --> 00:03:08,720
+Now don't just take my word for it.
+
+49
+00:03:08,720 --> 00:03:11,680
+Check out what my past students had to say about my courses.
+
+50
+00:03:14,640 --> 00:03:19,680
+So what are you still waiting for?
+
+51
+00:03:19,680 --> 00:03:24,480
+Find out why over half a million students have rated my course five stars
+
+52
+00:03:24,480 --> 00:03:27,680
+and see what you can do by mastering Python.
+
+53
+00:03:44,400 --> 00:03:46,640
+Hi.
+
+54
+00:03:46,640 --> 00:03:48,240
+This is where you start the course.
+
+55
+00:03:49,040 --> 00:03:51,840
+But first, I want to tell you a little bit about it
+
+56
+00:03:52,640 --> 00:03:54,880
+because this is more than a course.
+
+57
+00:03:55,520 --> 00:03:56,400
+It's a journey.
+
+58
+00:03:57,280 --> 00:03:58,240
+And it's a challenge.
+
+59
+00:03:59,200 --> 00:04:00,720
+A challenge to yourself.
+
+60
+00:04:01,600 --> 00:04:03,120
+I often hear people say,
+
+61
+00:04:03,120 --> 00:04:04,320
+I want to learn to code.
+
+62
+00:04:04,320 --> 00:04:06,000
+I want to become an app developer.
+
+63
+00:04:06,000 --> 00:04:07,360
+I want a new job.
+
+64
+00:04:07,360 --> 00:04:08,400
+I want to build my app.
+
+65
+00:04:09,120 --> 00:04:12,400
+But without action, those words are meaningless.
+
+66
+00:04:13,360 --> 00:04:15,040
+But you are different.
+
+67
+00:04:15,520 --> 00:04:16,160
+I know it.
+
+68
+00:04:17,040 --> 00:04:19,120
+Even though I don't know you personally,
+
+69
+00:04:19,120 --> 00:04:22,560
+I know you purchased this course and you haven't left it at that.
+
+70
+00:04:23,200 --> 00:04:24,160
+You've made a start.
+
+71
+00:04:24,720 --> 00:04:27,680
+And success comes to those who show up.
+
+72
+00:04:27,680 --> 00:04:28,880
+And you showed up today.
+
+73
+00:04:29,840 --> 00:04:31,200
+I know you can do this.
+
+74
+00:04:31,840 --> 00:04:33,600
+You can make your dreams come true.
+
+75
+00:04:33,600 --> 00:04:35,520
+You can change your own future.
+
+76
+00:04:35,520 --> 00:04:37,920
+And you can change the lives of those people around you.
+
+77
+00:04:38,880 --> 00:04:41,920
+One of the questions I hear most often is,
+
+78
+00:04:41,920 --> 00:04:43,600
+what's the best way to learn to code?
+
+79
+00:04:44,400 --> 00:04:45,840
+Well, here it is.
+
+80
+00:04:45,840 --> 00:04:47,920
+It's the 100 days of code challenge.
+
+81
+00:04:48,640 --> 00:04:51,520
+Code for at least an hour over 100 days.
+
+82
+00:04:52,320 --> 00:04:55,200
+You're practicing a muscle to get strong at coding.
+
+83
+00:04:56,240 --> 00:04:58,800
+Then the next question, inevitably, is,
+
+84
+00:04:59,520 --> 00:05:01,360
+well, what do I do each day?
+
+85
+00:05:02,320 --> 00:05:04,960
+And I've spent years thinking about this question.
+
+86
+00:05:05,760 --> 00:05:09,600
+And finally, I'm now able to definitively answer that.
+
+87
+00:05:10,480 --> 00:05:11,360
+It's this course.
+
+88
+00:05:13,520 --> 00:05:17,520
+Every day, you're going to learn and apply new programming concepts.
+
+89
+00:05:18,480 --> 00:05:21,280
+After 100 days of repeating this process,
+
+90
+00:05:21,280 --> 00:05:26,080
+not only will you have covered the entire professional Python curriculum,
+
+91
+00:05:26,080 --> 00:05:29,200
+you'll also be so good that they can't ignore you.
+
+92
+00:05:30,400 --> 00:05:33,440
+There are just two rules to get the most out of this course.
+
+93
+00:05:34,400 --> 00:05:38,480
+One, pledge to code for an hour a day for 100 days.
+
+94
+00:05:39,600 --> 00:05:43,520
+To keep yourself accountable, I recommend downloading the course pledge.
+
+95
+00:05:43,520 --> 00:05:45,520
+This is a contract with yourself.
+
+96
+00:05:46,080 --> 00:05:48,960
+You can print it out and pin it somewhere you can always see.
+
+97
+00:05:49,520 --> 00:05:52,240
+For example, above your computer or on your desk.
+
+98
+00:05:53,200 --> 00:05:56,640
+By signing the pledge, you're making a commitment to yourself.
+
+99
+00:05:57,200 --> 00:05:58,720
+It's only for you.
+
+100
+00:05:58,720 --> 00:06:00,160
+No one else needs to see it.
+
+101
+00:06:01,120 --> 00:06:04,640
+You can download the pledge in the course resources for this lesson.
+
+102
+00:06:05,760 --> 00:06:12,160
+The second rule is to log your progress using the 100 days of code hashtag on Twitter.
+
+103
+00:06:13,040 --> 00:06:16,400
+There are millions of other students who are on this journey with you,
+
+104
+00:06:16,400 --> 00:06:18,720
+and they will support you when times get tough.
+
+105
+00:06:19,520 --> 00:06:24,880
+I recommend tweeting your progress each day with the hashtag 100 days of code
+
+106
+00:06:24,880 --> 00:06:28,480
+and search the hashtag on Twitter to see what others are doing
+
+107
+00:06:28,560 --> 00:06:30,160
+as a part of their 100 days.
+
+108
+00:06:31,120 --> 00:06:33,040
+And that's all there is to it.
+
+109
+00:06:33,040 --> 00:06:37,280
+So here's to your success and let's get started with the course.
+
+110
+00:06:44,000 --> 00:06:46,480
+Hey guys, it's Angela here.
+
+111
+00:06:47,440 --> 00:06:51,120
+After I made this course, I decided to take it myself
+
+112
+00:06:51,120 --> 00:06:54,000
+so I could see what it's like to be in your shoes.
+
+113
+00:06:54,960 --> 00:06:58,880
+Along the way, I realized there are things we could create
+
+114
+00:06:58,880 --> 00:07:03,360
+to make your learning experience easier and even more enjoyable.
+
+115
+00:07:04,160 --> 00:07:07,520
+So in this video, I'm going to share my top tips
+
+116
+00:07:07,520 --> 00:07:11,360
+and how to use all the tools and resources we built for you.
+
+117
+00:07:13,200 --> 00:07:16,720
+The first tip I have for you is to use another screen.
+
+118
+00:07:17,600 --> 00:07:23,600
+That way, you can watch the lesson on a tablet or phone and code on your main computer.
+
+119
+00:07:24,160 --> 00:07:27,680
+So you can code along with me and get practice
+
+120
+00:07:27,680 --> 00:07:29,680
+instead of just listening to the videos.
+
+121
+00:07:30,480 --> 00:07:32,560
+Programming is a practical skill.
+
+122
+00:07:32,560 --> 00:07:36,320
+So just as you need practice when learning skateboarding,
+
+123
+00:07:36,880 --> 00:07:40,000
+you also need practice to get good at programming.
+
+124
+00:07:41,120 --> 00:07:42,480
+Tip number two.
+
+125
+00:07:42,480 --> 00:07:47,440
+I created a Python syntax cheat sheet which you can download and print out.
+
+126
+00:07:48,080 --> 00:07:52,320
+It contains some of the most common programming concepts we'll learn
+
+127
+00:07:52,320 --> 00:07:56,320
+and it's a handy reference to have when you're doing the coding challenges.
+
+128
+00:07:57,040 --> 00:08:00,720
+You can download this in the course resources for this lesson
+
+129
+00:08:01,440 --> 00:08:05,440
+where you'll also find my 12 rules to learn to code ebook.
+
+130
+00:08:06,400 --> 00:08:10,640
+One of the hardest things about learning is keeping the motivation high.
+
+131
+00:08:11,440 --> 00:08:16,320
+I find I'm usually more motivated when I'm in the library or a cafe
+
+132
+00:08:16,320 --> 00:08:19,360
+where I can see other people studying or working hard.
+
+133
+00:08:20,160 --> 00:08:26,160
+So I decided to create a two-hour study with me video where I'm concentrating hard.
+
+134
+00:08:26,880 --> 00:08:29,520
+We'll work for 25 minutes at a time
+
+135
+00:08:29,520 --> 00:08:33,600
+and then take a five-minute break before we get back to the next pomodoro.
+
+136
+00:08:34,480 --> 00:08:35,680
+Tip number four.
+
+137
+00:08:36,480 --> 00:08:39,360
+When you're learning new programming concepts,
+
+138
+00:08:39,360 --> 00:08:44,960
+it's a good idea to note down how the code works while your mind is fresh on that topic.
+
+139
+00:08:45,840 --> 00:08:52,880
+So I created a coding notes page that you can print out and collate to create a coding notebook.
+
+140
+00:08:53,840 --> 00:09:00,480
+The note paper is the perfect place to write down examples of coding concepts you've learned.
+
+141
+00:09:01,200 --> 00:09:05,600
+It comes with line numbers and handy indentation guides
+
+142
+00:09:05,600 --> 00:09:09,920
+which is super useful when it comes to writing out Python code.
+
+143
+00:09:10,720 --> 00:09:12,880
+Coding is not like history.
+
+144
+00:09:13,520 --> 00:09:15,440
+There's nothing you need to memorize.
+
+145
+00:09:16,080 --> 00:09:17,760
+It's a bit like baking.
+
+146
+00:09:17,760 --> 00:09:20,080
+You don't need to remember the recipe.
+
+147
+00:09:20,080 --> 00:09:24,480
+You just need to get practice and understand how to use the recipe.
+
+148
+00:09:25,120 --> 00:09:31,040
+One of the most helpful note-taking systems for learning is the Cornell note method.
+
+149
+00:09:32,000 --> 00:09:37,200
+In our coding notebook, we've incorporated all the key elements from Cornell,
+
+150
+00:09:38,000 --> 00:09:42,720
+including the sidebar where you can write comments on each line of code
+
+151
+00:09:43,360 --> 00:09:49,120
+and the bottom summary section where you can write an overview of the concept you just learned.
+
+152
+00:09:50,160 --> 00:09:52,720
+In the course resources for this lesson,
+
+153
+00:09:52,720 --> 00:09:57,040
+you'll also find some desktop wallpapers I've created for you.
+
+154
+00:09:57,840 --> 00:10:03,120
+They contain some of the messages I keep around my desk to keep me motivated
+
+155
+00:10:03,120 --> 00:10:04,800
+and I hope they'll help you too.
+
+156
+00:10:04,800 --> 00:10:07,440
+Tip number five.
+
+157
+00:10:08,400 --> 00:10:10,880
+Celebrate after you complete each day.
+
+158
+00:10:11,680 --> 00:10:15,920
+Because this course is designed to take you from beginner to professional,
+
+159
+00:10:16,480 --> 00:10:22,080
+as you go from day to day, there will be less and less tutorial and more and more practice.
+
+160
+00:10:22,880 --> 00:10:27,360
+To keep you on track, I've created a hundred days of code poster.
+
+161
+00:10:28,240 --> 00:10:31,680
+Once you complete a day, you can check it off on the poster.
+
+162
+00:10:31,680 --> 00:10:36,400
+So print it out, put it up on a wall and take each day as a challenge.
+
+163
+00:10:37,120 --> 00:10:43,760
+Reward yourself after each day you tick off and day by day you'll learn and grow as a developer.
+
+164
+00:10:44,960 --> 00:10:49,520
+This course is a safe space where you can make mistakes, ask questions,
+
+165
+00:10:50,080 --> 00:10:55,040
+but most importantly, become confident in your skills as a programmer.
+
+166
+00:10:56,320 --> 00:10:58,720
+I had so much fun building this course
+
+167
+00:10:59,280 --> 00:11:02,400
+and I hope that you'll enjoy it as much as I did.
+
+168
+00:11:03,200 --> 00:11:08,400
+So here's to your success.
+
