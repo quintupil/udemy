@@ -2,6 +2,7 @@
 <a href="..\Readme.md" title="Volver a Readme.md">Volver</a>
 
 Transcripción:
+
     Hi.
     This is where you start the course.
     But first, I want to tell you a little bit about it
