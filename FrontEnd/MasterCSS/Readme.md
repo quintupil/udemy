@@ -194,6 +194,21 @@ Ejemplo:
             <input type="submit" value="Enviar formulario"/>
         </form>    
 
+<h3>11. Ejercicio completo para practicar con HTML</h3>
+
+Solo indica el ejercicio que se debe realizar 
+
+<h3>12. Múltiples páginas</h3>
+
+Resolución ejercicio.
+
+Comentario de código en html se etiqueta de la siguiente forma:
+
+    <!-- Comentario de código HTML-->
+
+Estos comentarios nos sirve para documentar código en html, o para indicar algo importante que deseamos describir, estos comentarios no se verán en la página solo en el código fuente.
+
+
 
 
 
