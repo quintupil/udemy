@@ -1,4 +1,4 @@
-<h1>3. Download the 12 Rules to Learn to Code eBook [Latest Edition]</h1>
+<h1>3. Downloadabled Resources and Tips for Taking the Course</h1>
 <a href="..\Readme.md" title="Volver a Readme.md">Volver</a>
 
     Hey guys, it's Angela here.
