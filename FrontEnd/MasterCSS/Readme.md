@@ -212,7 +212,22 @@ Estos comentarios nos sirve para documentar código en html, o para indicar algo
 
 Etiqueta `<a href="pagina.html" title="Titulo del enlace">Texto</a>`, permite crear un enlace hacia otrá página de nuestro sitio web. Con atributo `target="_blank"` abre la página en una nueva pestaña del navegador.
 
+<h2>Sección 4: [Introducción: CSS y las hojas de estilo en cascada]</h2>
 
+<h3>14. CSS - ¿Qué aprenderemos</h3>
+
+<ol>
+    <li>Primeros pasos</li>
+    <li>Selectores</li>
+    <li>Fuentes y colores</li>
+    <li>Fondos y textos</li>
+    <li>Modelo de cajas y posicionamiento</li>
+    <li>Ejercicios con CSS</li>
+    <li>Sombras y efectos</li>
+    <li>Relativo, absoluto y fijo</li>
+    <li>Transiciones y animaciones</li>
+    <li>Proyecto completo</li>
+</ol>
 
 
 
