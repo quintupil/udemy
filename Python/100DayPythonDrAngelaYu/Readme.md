@@ -1,5 +1,5 @@
-<h1>Curso Python 100 days programming</h1> 
-Autora: Dr. Angela Yu
+<h1>100 Days of Code: The Complete Python Pro Bootcamp for 2023</h1> 
+Autora: Dr. Angela Yu.
 
 <h2>Sección 1: Day 1 - Beginner - Working with Variables in Python to Manage Data.</h2>
 
