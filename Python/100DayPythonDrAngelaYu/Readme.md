@@ -10,6 +10,7 @@
 <a href="https://itauchile.udemy.com/course/100-days-of-code/learn/lecture/23154980#overview" target="_blank">Enlace</a></br>
 
 Transcripción:
+
 <a href="01_Cap\TranscripcionIng.md" title="Transcripción Inglés">Transcripción Inglés</a></br>
 <a href="01_Cap\TranscripcionEs.md" title="Transcripción Español">Transcripción Español</a></br>
 
