@@ -6,5 +6,5 @@
 <h3>1. What you'll Get in This Course</h3>
 
 URL: 
-`https://itauchile.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview`
+    `https://itauchile.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview`
 
