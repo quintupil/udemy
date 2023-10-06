@@ -11,3 +11,8 @@ URL:
 <a href="Capitulo01\TranscripcionIn.md" title="Transcripción Inglés">Transcripción Inglés</a></br>
 <a href="Capitulo01\TranscripcionEs.md" title="Transcripción Español">Transcripción Español</a></br>
 
+<h3>2. Download the Course Syllabus</h3>
+
+<a href="Capitulo02\Web+Dev+Syllabus.pdf" title="PDF">Recurso: Web+Dev+Syllabus.pdf</a></br>
+
+
