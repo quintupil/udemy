@@ -2,6 +2,7 @@
 <a href="..\Readme.md" title="Volver a Readme.md">Volver</a>
 
 Transcripción:
+
     Hola y bienvenido al mejor curso de desarrollo web del mundo.
     Mi nombre es Angela.
     Soy una desarrolladora senior y la instructora principal en el London App Brewery, el boot camp de programación con la mejor calificación en Londres.
