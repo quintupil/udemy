@@ -8,3 +8,6 @@
 URL: 
     `https://itauchile.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview`
 
+<a href="Capitulo01\TranscripcionIn.md" title="Transcripción Inglés">Transcripción Inglés</a></br>
+<a href="Capitulo01\TranscripcionEs.md" title="Transcripción Español">Transcripción Español</a></br>
+
