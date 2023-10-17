@@ -5,9 +5,10 @@
 
 <h3>1. What you'll Get in This Course</h3>
 
-[URL](`https://itauchile.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview`)
+<a href="https://itauchile.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview" title="Enlace curso Udemy">Enlace curso Udemy</a> 
 
-[Transcripción Inglés](Capitulo01\TranscripcionIn.md "Transcripción Inglés")
+<a href="Capitulo01\TranscripcionIn.md" title="Transcripción Inglés">Transcripción Inglés</a></br>
+<a href="Capitulo01\TranscripcionEs.md" title="Transcripción Español">Transcripción Español</a></br>
 
 <h3>2. Download the Course Syllabus</h3>
 
