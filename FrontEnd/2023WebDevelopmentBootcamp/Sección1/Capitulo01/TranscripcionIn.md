@@ -6,7 +6,7 @@ Transcripción:
     Hello, and welcome to the world's best web development course.
     My name is Angela.
     I'm a senior developer and the lead instructor at the London App Brewery, London's highest
-    rated programming boot camp.
+    rated programming bootcamp.
     To date, I've taught over a million students worldwide, in person and online.
     And today I'm so excited that I have the privilege to be your instructor on this course.
     You're going to get access to over 55 hours of HD video content, step-by-step tutorials,
