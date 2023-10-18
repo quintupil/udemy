@@ -25,3 +25,9 @@
 <h3>5. How does the internet actually work?</h3>
 
 <a href="https://itauchile.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286980#overview">Enlace capitulo 5</a>
+
+<h3>6. How do websites actually work?
+
+<a href="https://itauchile.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12286990#overview">Enlace capitulo 6</a>
+
+
