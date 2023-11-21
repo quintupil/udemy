@@ -46,3 +46,5 @@ Son líneas de código que el intérprete de JS ignorará a la hora de ejecutar.
 
 Es un código que provee el funcionamiento de una nueva característica de JavaScript (ES6), en versiones viejas como ES5.
 
+### **11. Introducción a la consola**
+**Notas: JS es un lenguaje interpretado.**
