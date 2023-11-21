@@ -46,5 +46,12 @@ Son líneas de código que el intérprete de JS ignorará a la hora de ejecutar.
 
 Es un código que provee el funcionamiento de una nueva característica de JavaScript (ES6), en versiones viejas como ES5.
 
-### **11. Introducción a la consola**
+### **12. Introducción a la consola**
 **Notas: JS es un lenguaje interpretado.**
+
+### **13. Orden y lugar de las importaciones**
+
+El orden y lugar de las importaciones de los archivos de JS si importan, va a fectar el rendimiento de la aplicación de varias maneras.
+
+La importación del archivo JS puede ir en dos partes, antes del cierre del body o entre las etiquetas del head.
+

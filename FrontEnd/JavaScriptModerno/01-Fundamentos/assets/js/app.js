@@ -1,4 +1,12 @@
-// console.log("Hola Mundo");
+// Esta instrucción es bloqueante, es decir, 
+// espera que el usuario realice click en el botón de alert, 
+// para que el navegador continue cargando las lineas del archivo JS.
+//alert("Hola desde app.js");
+
+
+
+
+//console.log("Hola Mundo");
 
 // VARIABLES: 
 
@@ -23,3 +31,5 @@ const SALUDO = c + d;
 // console.log({c});
 
 // console.table({a, b, c, d, x})
+
+var miNombre = 'Carlos'
