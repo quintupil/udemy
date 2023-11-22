@@ -49,9 +49,12 @@ Es un código que provee el funcionamiento de una nueva característica de JavaS
 ### **12. Introducción a la consola**
 **Notas: JS es un lenguaje interpretado.**
 
-### **13. Orden y lugar de las importaciones**
+### **13. Depuración y breakpoints**
+
+### **14. Orden y lugar de las importaciones**
 
 El orden y lugar de las importaciones de los archivos de JS si importan, va a fectar el rendimiento de la aplicación de varias maneras.
 
 La importación del archivo JS puede ir en dos partes, antes del cierre del body o entre las etiquetas del head.
 
+### **15. Principal problema con la inicialización de variables con Var**
