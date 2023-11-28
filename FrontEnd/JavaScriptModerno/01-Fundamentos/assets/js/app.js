@@ -32,4 +32,11 @@ const SALUDO = c + d;
 
 // console.table({a, b, c, d, x})
 
-var miNombre = 'Carlos'
+//var miNombre = 'Carlos'
+
+console.log( miNuevoNombre + " García" );
+
+
+
+//var miNuevoNombre = 'Carlos Renato';
+let miNuevoNombre = 'Carlos Renato';
